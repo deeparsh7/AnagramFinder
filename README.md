@@ -11,7 +11,7 @@ This project aims to help you quickly identify pairs of anagram words within a g
 
 ## Getting Started
 
-To use the Anagram Detector, follow these instructions:
+To use the Anagram Finder, follow these instructions:
 
 ### Prerequisites
 

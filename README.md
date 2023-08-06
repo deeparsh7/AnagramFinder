@@ -20,15 +20,22 @@ To use the Anagram Finder, follow these instructions:
 ### Usage
 
 Open the cloned repository in Google Colab or any Python-compatible environment.
+
 Run the anagram_detector.py script.
+
 Follow the on-screen prompts to input a list of words.
+
 The script will then display anagram pairs and non-anagram words from the input list
 
 ### Functionality
 The Anagram Detector script provides the following functionality:
+
 Accepts a list of words as input from the user.
+
 Identifies anagram pairs within the input list using an efficient algorithm.
+
 Displays the identified anagram pairs and non-anagram words.
+
 Delivers clear and visually organized output, showcasing the identified anagram pairs and non-anagram words in a well-structured manner.
 
 ### Results
@@ -37,7 +44,7 @@ The script will display the identified anagram pairs and non-anagram words from 
 ### Time and Space Complexity
 
 The time complexity of the anagram detection algorithm implemented in this script is O(n^2), where 'n' is the number of words provided. This is because we compare each word with every other word to check for anagrams.
-The space complexity is O(n), where 'n' is the number of words provided. We use sets to store visited words, anagram pairs, and non-anagram words, each of which can have a maximum of 'n' elements.
+The space complexity is O(n), where 'n' is the number of words provided. 
 In terms of efficiency, the space complexity is more efficient compared to the time complexity, as the time complexity grows significantly with the square of the input size, while the space complexity grows linearly.
 
 Contact

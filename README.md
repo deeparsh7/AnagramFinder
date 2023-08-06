@@ -1,6 +1,6 @@
 # Anagram-Finder
 
-![Anagram Finder]![image](https://github.com/deeparsh7/AnagramFinder/assets/121679549/04e0ab8a-6476-4dc9-a676-305c911019fe)
+[image](https://github.com/deeparsh7/AnagramFinder/assets/121679549/04e0ab8a-6476-4dc9-a676-305c911019fe)
 
 
 Anagram Finder is a Python script that helps you identify pairs of anagram words within a given list of words. Anagrams are words or phrases formed by rearranging the letters of another word or phrase, typically using all the original letters exactly once.

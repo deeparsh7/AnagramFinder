@@ -43,8 +43,10 @@ The script will display the identified anagram pairs and non-anagram words from 
 
 ### Time and Space Complexity
 
-The time complexity of the anagram detection algorithm implemented in this script is O(n^2), where 'n' is the number of words provided. This is because we compare each word with every other word to check for anagrams.
-The space complexity is O(n), where 'n' is the number of words provided. 
+The time complexity of the anagram detection algorithm implemented in this script is O(n^2), where 'n' is the number of words provided. 
+
+The space complexity is O(n), where 'n' is the number of words provided.
+ 
 In terms of efficiency, the space complexity is more efficient compared to the time complexity, as the time complexity grows significantly with the square of the input size, while the space complexity grows linearly.
 
 Contact

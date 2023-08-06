@@ -13,6 +13,18 @@ This project aims to help you quickly identify pairs of anagram words within a g
 
 To use the Anagram Finder, follow these instructions:
 
+To open and run the code in Google Colab, follow these steps:
+
+Go to the GitHub repository containing the code : https://github.com/deeparsh7/AnagramFinder
+
+Click on the AnagramFinder.ipynb notebook file.
+
+On the top-left corner of the notebook page, you'll see a "Open in Colab" button. Click on it to open the notebook in Google Colab.
+
+Open in Colab
+
+Google Colab will open the notebook in a new tab. You can now run the code .
+
 ### Prerequisites
 
 - Python 3.x

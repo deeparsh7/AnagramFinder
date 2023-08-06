@@ -1,5 +1,4 @@
 # Anagram-Finder
-# Anagram Detector
 
 ![Anagram Detector]![image](https://github.com/deeparsh7/AnagramFinder/assets/121679549/04e0ab8a-6476-4dc9-a676-305c911019fe)
 

@@ -5,7 +5,7 @@
 
 Anagram Finder is a Python script that helps you identify pairs of anagram words within a given list of words. Anagrams are words or phrases formed by rearranging the letters of another word or phrase, typically using all the original letters exactly once.
 
-** About the Project**
+**About the Project**
 
 This project aims to help you quickly identify pairs of anagram words within a given list of words. It utilizes a Python script that employs an efficient anagram-checking algorithm, based on sorting and set operations, to accurately and rapidly identify anagram pairs.
 

@@ -47,7 +47,7 @@ The time complexity of the anagram detection algorithm implemented in this scrip
 
 The space complexity is O(n), where 'n' is the number of words provided.
  
-In terms of efficiency, the space complexity is more efficient compared to the time complexity, as the time complexity grows significantly with the square of the input size, while the space complexity grows linearly.
+In terms of efficiency, the space complexity is more efficient compared to the time complexity.
 
 Contact
 as7112@srmist.edu.in,arshdeep72140@gmail.com

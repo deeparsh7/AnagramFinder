@@ -37,7 +37,7 @@ The script initializes data structures: an empty list for words, a set for visit
 
 It iterates through the words list, avoiding duplicate comparisons, and checks for anagrams using the are_anagrams function. Anagrams are stored in the anagram_pairs list, and non-anagram words are stored in the non_anagram_set.
 
-Finally, the script prints anagram pairs and non-anagrams if they exist, and displays a message if no anagram pairs or non-anagrams are found. The time and space complexity of the algorithm are explained in the previous responses.
+Finally, the script prints anagram pairs and non-anagrams if they exist, and displays a message if no anagram pairs or non-anagrams are found. 
 
 **Functionality**
 
